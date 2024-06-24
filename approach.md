@@ -1,0 +1,2 @@
+# Approach
+In this project, used Java programing language to write the code using IntelliJ IDEA and to test the code we used specifically JUnit, for techniques used Proactive approach which , will test the design process is initiated as early as possible in order to find and fix the defects before the build is created. Moreover, code for a specific functionality with testing using JUnit with a certain number of test cases.
